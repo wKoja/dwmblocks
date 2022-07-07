@@ -13,15 +13,17 @@ static const Block blocks[] = {
     "", "sb-price link \"Chainlink\" 🔗", 180, 2},
     {"",	"sb-price bat \"Basic Attention Token\" 🦁",	9000,	20}
     {"", "sb-price xmr \"Monero\" 🔒" 	9000 	24},
-    {"", "sb-price btc \"Bitcoin\" 💰", 180, 23},
     {"", "sb-price eth \"Ethereum\" 🍸", 180, 25},*/
+    {"", "sb-price btc \"Bitcoin\" 💰", 180, 23},
     {"", "sb-torrent", 20, 7},
 
     {"", "sb-memory", 10, 14},
     {"", "sb-cpu", 10, 18},
+    {"", "sb-cpubars", 5, 17},
     {"", "sb-disk", 10, 19},
-    /*    {"", "sb-moonphase", 18000, 17},
-        {"", "sb-forecast", 18000, 5},
+    {"", "sb-forecast", 18000, 5},
+    {"", "sb-moonphase", 18000, 17},
+    /*
         {"", "sb-mailbox", 180, 12},
         {"", "sb-nettraf", 1, 16}, */
     {"", "sb-volume", 0, 10},
